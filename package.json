@@ -1,0 +1,27 @@
+{
+  "name": "react-native-mapview-android",
+  "version": "0.1.0",
+  "description": "MapView support for ReactNative android ",
+  "main": "map-view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lxsameer/react-native-mapview-android.git"
+  },
+  "keywords": [
+    "map",
+    "google",
+    "android",
+    "mapview",
+    "reactnative",
+    "native"
+  ],
+  "author": "Sameer Rahmani <lxsameer@gnu.org>",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/lxsameer/react-native-mapview-android/issues"
+  },
+  "homepage": "https://github.com/lxsameer/react-native-mapview-android"
+}
